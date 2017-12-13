@@ -1,3 +1,4 @@
 Exercise 1 - HelloWorld complete
 Exercise 2 - PartiesList complete
 Exercise 3 - WhatsYourName complete
+Exercise 4 - Quiz complete
